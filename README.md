@@ -1,1 +1,2 @@
-# matterjsboilerplate
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
